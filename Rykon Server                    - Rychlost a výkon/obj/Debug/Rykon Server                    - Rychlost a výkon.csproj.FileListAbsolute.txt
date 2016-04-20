@@ -1,0 +1,15 @@
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\Rykon Server                    - Rychlost a výkon.csproj.GenerateResource.Cache
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\Rykon.exe
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\Rykon.pdb
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\Rykon.exe
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\Rykon.pdb
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\Rykon Server                    - Rychlost a výkon.csprojResolveAssemblyReference.cache
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\bin\Debug\Rykon.exe.config
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\RykonServer.Properties.Resources.resources
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\RykonServer.FormMain.resources
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\RykonServer.Forms.FrmIntro.resources
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\RykonServer.Forms.FrmLanguageAdd.resources
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\RykonServer.Forms.FrmMessagBox.resources
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\RykonServer.Forms.FrmSelfBrowser.resources
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\RykonServer.FrmSettings.resources
+D:\Projects\Rykon\Rykon Server                    - Rychlost a výkon\obj\Debug\RykonServer.Forms.BigMessageBox.resources
