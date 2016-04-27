@@ -8,7 +8,7 @@ A web server is an information technology that processes requests via HTTP, the 
 
 
 <h3> Name </h3>
-Rykon comes from czech sentence  "Rychlost a výkon" means "Speed and performance </br>
+Rykon comes from czech sentence  "Rychlost a vÃ½kon" means "Speed and performance </br>
 
 <h3> Building </h3>
 Development of Rykon began in 2016 by Team Fourneso as graduation project 
@@ -34,7 +34,7 @@ under supervision of<br />
 - Python <br/>
 - Ring <br/>
 - Perl </br>
-- Any customized Added language <br/>
+- Customize any interpreted programming language  <br/>
 <br/><br/>
 
 
@@ -43,7 +43,13 @@ under supervision of<br />
 4-Unlimitted number of clients <br/>
 5- Server Side Includes <br/>
 6-Request processing rate limiting</br>
+Rykon has some good and usefull build-in extension  <br/>
 7- live stream </br>
+8-File Uploader  (coming next) </br>
+9-Remote Adminstration options  (still under development)</br>
+10-Media Player (audio/video)"Works now"</br>
+11- Gallery  (coming next)</br>
+
 <h5> Next </h5>
 1- Cross Platform <br/>
 2- htaccess support<br/>
@@ -120,3 +126,20 @@ main form <br />
 <h3> License </h3>
 <a href='http://www.gnu.org/licenses/gpl-3.0.html' > Released under the GPL   license </a> </br>
 </hr>
+
+
+
+<h3> Downloads </h3> 
+Last version (daily updating )<hr />
+<a href='https://github.com/4neso/Rykon/archive/master.zip' ></a>
+
+
+<h4>Ver 2</h4><hr />
+<a href='https://www.dropbox.com/s/ne3z8y6zamj266a/_Rykon_server_v2.zip?dl=0' >Dropbox</a><br />
+<a href='http://www.mediafire.com/download/m8zly7pgpnzqqm9/_Rykon_server_v2.zip' >mediafire</a><br />
+
+
+
+<h4>Ver 1</h4><hr />
+<a href='www.softpedia.com/get/Internet/Servers/WEB-Servers/Rykon-Server.shtml' >softpedia</a><br />
+<a href='https://www.dropbox.com/s/cvyo3pd3q1d44qz/Rykon.rar?dl=0' >Dropbox </a> <br />
